@@ -1,2 +1,5 @@
 # Scrapping-text
-My Scraping with python
+
+Scrapping wed with BS4 and Request 
+
+Getting Text Clean...
